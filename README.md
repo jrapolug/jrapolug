@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Jayachandra Rapolu</h1>
+<h3 align="center">A passionate DevOps Engineer with Knowledge on DevOps Methodologies and Tools</h3>
 
-<!--
-**jrapolug/jrapolug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning DevOps **#DevOps Zero to Hero in Trainwithshubam.com Platform**
 
-Here are some ideas to get you started:
+- 👨‍💻 All of my projects are available at [https://github.com/jrapolug?tab=repositories](https://github.com/jrapolug?tab=repositories)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📝 I regularly write articles on [https://jaysydevops.hashnode.dev/](https://jaysydevops.hashnode.dev/)
+
+- 💬 Ask me about **linux, git, python, shell scripting, AWS, jenkins, docker, maven, kubernetes, Ansible, Terraform**
+
+- 📫 How to reach me **jayachandrarapolu@gmail.com**
+
+- ⚡ Fun fact **I think I want to achieve everything.**
